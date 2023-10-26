@@ -33,6 +33,21 @@ It is imperative to open the Windows Defender Firewall properties to leave the V
 <img src="https://i.imgur.com/E77E7Dw.png" height="85%" width="85%" alt="Azure Virtual Machine"/>
 </p>
 
+<h2>Logs Query</h2>
+<b>Loggins the Information
+</b>
+<br />
+<br />
+Must code into the SIEM logs to separate and differentiate the subcategories. Also pulling the information from the logs to be more digestible to view on map.
+<br />
+<br />
+
+
+<p align="center">
+<img src="https://i.imgur.com/bdPjEUj.png" height="85%" width="85%" alt="Azure Virtual Machine"/>
+</p>
+
+
 
 <h2>Languages Used</h2>
 
@@ -44,7 +59,10 @@ It is imperative to open the Windows Defender Firewall properties to leave the V
 
 <h2>Attacks from across the globe coming in; Custom logs being output with geodata</h2>
 <b>Using the IP Address of the attackers, we are able to log their locations.(The Error is only due to having a capacity on the query)
-</b>
+ 
+<br />
+<br />
+
 <p align="center">
 <img src="https://i.imgur.com/vNObA0s.png" height="85%" width="85%" alt="Map Data"/>
 </p>
