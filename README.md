@@ -75,6 +75,7 @@ Must code into the SIEM logs to separate and differentiate the subcategories. Al
 
 
 <!--
+Credit to Josh Madakor for inspiration on recreating and coding.
  ```diff
 - text in red
 + text in green
